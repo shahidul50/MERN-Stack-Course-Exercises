@@ -44,7 +44,26 @@
 ### Class 10(Tuesday-04/04/2023){
     > Introduction to Relational Database and describe how it work.
     > Introduction to authorization and describe how it work.
+    > Describe How to authorize a route.
 
 ### Class 11(Friday-07/04/2023){
     > Describe how to work Role(admin, user) management System or Role Based Authorization.
     > Describe how to work pagination.
+### Class 12(Wednessday-12/04/2023){
+    > Describe how to upload a image or file in Project.
+    > Introduction to multer and cloudinary.
+### Class 13(Wednessday-03/05/2023){
+    > describe how to send validation Email and Email
+    > describe what is nodeMailer.
+    > describe what is mailtrap.Why we use this?
+    > describe how to genarate Forget password link and how to change password.
+### Class 14(Monday-08/05/2023){
+    > Describe about MongoDB Aggregation and how it work.
+    > Describe about MondoDB database indexing.
+    > Describe about MondoDB database Transaction.
+    > Describe How to genarate documentation of your own API
+### Class 15(Wednessday-21/05/2023){
+    > how to upload image cloudinary.
+    > how to deploy API into railway. 
+### Class 16(Monday-28/05/2023){
+    > 
