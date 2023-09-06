@@ -66,4 +66,33 @@
     > how to upload image cloudinary.
     > how to deploy API into railway. 
 ### Class 16(Monday-28/05/2023){
+    > What is React? Why we use React?
+    > What is Component? What is JSX? How its Work?
+    > How we create a React App? Understanding React Project Structure.
+    >
+    >
+### Class 17(Wednessday-16/07/2023){
+    > Introduction to Context API
+    > 
+
+### Class 18(Sataurday-22/07/2023){
+    > Introduction to Next JS(React Framework).
+    > 
+### Class 19(Sataurday-26/07/2023){
+    > Introduction to Redux(Global State management tools)
+    > Introduction to Redux Toolkit.(redux update version.)
+### Class 20(Sataurday-02/08/2023){
+    > Introduction to controll and Uncontroll react form.
+    > Introduce how to Handaling Validation and Error Message.
+### Class 21(Sataurday-08/08/2023){
+    > Introduce how to create Auth Api with express.js(backend)
+    > 
+### Class 22(Sataurday-15/08/2023){
+    > Introduce how to make a React Auth Project(frontend)
+    > Introduction to Redux Toolkit Query.
+### Class 23(Sataurday-23/08/2023){
+    > How to Deploy Mern Project into VPS Server.
+    > Introduction to react-router-dom 6.
+### Class 24(Sataurday-02/09/2023){
+    > Introduction to Next Auth for Authendication.
     > 
